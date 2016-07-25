@@ -1,2 +1,3 @@
 # hello-world
-first repository on github...follow the rules
+
+This is my Sunday evening project while I enjoy fried rice for dinner. Yum
